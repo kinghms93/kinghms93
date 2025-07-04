@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hamayun Muhammad Saqib!
 
-🎮 Unity Game Developer | 🧪 Assistant Professor of Biotechnology | 🤖 AI/ML Enthusiast  
+🎮 Unity Game Developer | 🤖 AI/ML/NLP Enthusiast  
 📍 Based in Punjab, Pakistan
 
 ---
